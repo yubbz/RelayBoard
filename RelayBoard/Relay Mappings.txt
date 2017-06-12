@@ -1,0 +1,4 @@
+Relay 1: 8
+Relay 2: 7
+Relay 3: 6
+Relay 4: 5
